@@ -1,0 +1,3 @@
+interesting function should return True or False
+
+part1: hw 95
