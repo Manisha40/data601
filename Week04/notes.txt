@@ -1,3 +1,6 @@
 interesting function should return True or False
 
 part1: hw 95
+
+see me after class!!
+part2: hw 0
